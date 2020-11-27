@@ -1,3 +1,6 @@
+import torch
+import numpy as np
+
 def get_batch_statistics(outputs, targets, iou_threshold):
     """ Compute true positives, predicted scores and predicted labels per sample """
     batch_metrics = []
