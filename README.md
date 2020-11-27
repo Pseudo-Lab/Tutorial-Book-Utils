@@ -1,2 +1,2 @@
-# Tutorial-Book-DataLoader
-data loader function for tutorial book
+# Tutorial-Book-Utils
+various functions used for tutorial book
