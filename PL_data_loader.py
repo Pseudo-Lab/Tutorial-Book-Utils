@@ -42,7 +42,8 @@ file_id_list = [
 ]
 
 file_id_dic = {'FaceMaskDetection':'1pJtohTc9NGNRzHj5IsySR39JIRPfkgD3',
-              'COVIDTimeSeries':'1B36Djko-f0LtVxSaBEVYosLTTsu0qtsh'}
+              'COVIDTimeSeries':'1B36Djko-f0LtVxSaBEVYosLTTsu0qtsh',
+              'GAN-Colorization':'1tPNnwPISjPaC1nDZ1QpXcJAQCFmeO3Uv'}
 
 destination = '' ### YOUR_DOWNLOAD_PATH
 # os.makedirs(destination, exist_ok=True)
