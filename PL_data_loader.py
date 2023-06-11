@@ -11,7 +11,7 @@ file_destinations = {'FaceMaskDetection':'Face Mask Detection.zip',
 file_id_dic = {'FaceMaskDetection':'16Gzn1w38yZLJpzmzKcRIRveFeHZtCEr7',
               'COVIDTimeSeries':'1B36Djko-f0LtVxSaBEVYosLTTsu0qtsh',
               'GAN-Colorization':'1dZxoBIWmbuF-Oy_XZoS1z9EjPJwkTmy6',
-              'NLP-QG':'1dPa5iLEv6WqeHZaYhNLPw5q_i5IGJzU9'}
+              'NLP-QG':'1QccVdDR5ebpPV8tLA7XkY6JmUjM1TYsw'}
 
 def download_file_from_google_drive(id_, destination):
     url = f'https://drive.google.com/uc?id={id_}'
